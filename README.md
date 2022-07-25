@@ -49,7 +49,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Delfim-dos-Anjos/Delfim-dos-Anjos/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Delfim-dos-Anjos/Delfim-dos-Anjos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
