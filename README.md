@@ -42,7 +42,7 @@
 <div align="center">
   
   <a href="https://www.instagram.com/delfim_dos_anjos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://web.facebook.com/delfimdosanjosfumane" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <!--<a href="https://web.facebook.com/delfimdosanjosfumane" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>-->
   <a href="https://twitter.com/dellfim_dos" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="mailto:delfim.fumane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
